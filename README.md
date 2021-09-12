@@ -1,6 +1,9 @@
 # gamesense.cx
 CrAcKcRaCkCraCK
 
+![image](https://user-images.githubusercontent.com/65768277/132970006-27277661-2cf4-4d3a-a682-16b6c8f05ba3.png)
+
+
 156.154.132.200 dns1.namecheaphosting.com
 156.154.133.200 dns2.namecheaphosting.com
 webhosting 198.54.115.138 mx+ip=198.54.114.12
