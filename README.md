@@ -1,5 +1,6 @@
 # gamesense.cx
 CrAcKcRaCkCraCK
+gamesense.cx. 3600 IN HINFO RFC8482
 
 ![image](https://user-images.githubusercontent.com/65768277/132970006-27277661-2cf4-4d3a-a682-16b6c8f05ba3.png)
 
