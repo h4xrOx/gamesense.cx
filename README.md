@@ -1,13 +1,15 @@
-# gamesense.cx
-CrAcKcRaCkCraCK
-gamesense.cx. 3600 IN HINFO RFC8482
-
-![image](https://user-images.githubusercontent.com/65768277/132970006-27277661-2cf4-4d3a-a682-16b6c8f05ba3.png)
-
-
+# gamesense.cx /
+![image](https://user-images.githubusercontent.com/65768277/132971900-6e7ba821-3f90-41dc-bdb8-f4c4b77d4765.png)
+![image](https://user-images.githubusercontent.com/65768277/132971944-b46e7174-e435-4d84-8fce-57b0ca3a75f9.png)
 156.154.132.200 dns1.namecheaphosting.com
 156.154.133.200 dns2.namecheaphosting.com
 webhosting 198.54.115.138 mx+ip=198.54.114.12
+
+****CrAcKcRaCkCraCK****
+***********************
+gamesense.cx. 3600 IN HINFO RFC8482
+12.116.54.198.in-addr.arpa domain name server196-4.web-hosting.com.
+![image](https://user-images.githubusercontent.com/65768277/132970006-27277661-2cf4-4d3a-a682-16b6c8f05ba3.png)
 
 gamesense.cx. 1200 IN TXT "v=spf1 +a +mx +ip4:198.54.114.12 +ip4:198.54.115.138 include:spf.web-hosting.com ~all"
 
